@@ -1046,7 +1046,7 @@ h6 {
     outline: none;
     line-height: 40px;
     padding: 0 30px;
-    font-size: .8em;
+    font-size: 0.8em;
     text-align: center;
     text-decoration: none;
     font-weight: 500;
@@ -1398,7 +1398,7 @@ h6 {
 }
 
 .single-gallery-image:hover {
-    opacity: .8;
+    opacity: 0.8;
 }
 
 .list-style {
@@ -2582,7 +2582,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /*-------- Start Banner Area ------------*/
 
 .banner-area {
-    background: url(../img/banner.gif) center;
+    background: url(../img/Ertale1.jpg) center;
     background-size: cover;
 }
 
@@ -3723,7 +3723,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     margin-bottom: 0px;
 }
 
-.widget-wrap .search-widget form.search-form input[type=text] {
+.widget-wrap .search-widget form.search-form input[type="text"] {
     color: #fff;
     padding: 10px 22px;
     font-size: 14px;
@@ -4090,7 +4090,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .single-post-area .navigation-area .nav-left:hover .thumb img {
-    opacity: .5;
+    opacity: 0.5;
 }
 
 @media (max-width: 767px) {
@@ -4129,7 +4129,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .single-post-area .navigation-area .nav-right:hover .thumb img {
-    opacity: .5;
+    opacity: 0.5;
 }
 
 @media (max-width: 991px) {
